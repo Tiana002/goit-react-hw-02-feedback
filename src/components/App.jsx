@@ -1,5 +1,3 @@
-
-
 import { Component } from "react";
 import { GlobalStyle } from "../GlobalStyle";
 import { Container } from "./Container.styled";
